@@ -1,0 +1,2 @@
+coinbasepro
+python-dotenv
